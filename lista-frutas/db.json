@@ -1,0 +1,16 @@
+{
+  "frutas": [
+    {
+      "id": 1,
+      "nome": "uva",
+      "quantidade": 10,
+      "preco": 10.09
+    },
+    {
+      "id": 2,
+      "nome": "laranja",
+      "preco": 2.99,
+      "quantidade": 5
+    }
+  ]
+}
